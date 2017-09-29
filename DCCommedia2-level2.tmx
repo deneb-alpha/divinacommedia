@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="IT"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Canto primo</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Marina Latini" changedate="20170929T092100Z" creationid="Marina Latini" creationdate="20170929T092100Z">
+        <seg>First Song</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Inferno</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Marina Latini" changedate="20170929T092030Z" creationid="Marina Latini" creationdate="20170929T092030Z">
+        <seg>Hell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Nel mezzo del cammin di nostra vita<ph x="0">&lt;br0/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Marina Latini" changedate="20170929T092337Z" creationid="Marina Latini" creationdate="20170929T092337Z">
+        <seg>in the middle of our life's path<ph x="0">&lt;br0/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>ché la diritta via era smarrita.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Marina Latini" changedate="20170929T092549Z" creationid="Marina Latini" creationdate="20170929T092549Z">
+        <seg>as the straightway was lost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>mi ritrovai per una selva oscura,<ph x="1">&lt;br1/&gt;</ph></seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Marina Latini" changedate="20170929T092443Z" creationid="Marina Latini" creationdate="20170929T092443Z">
+        <seg>I found myself in a dark forest,<ph x="1">&lt;br1/&gt;</ph></seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

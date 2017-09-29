@@ -1,0 +1,14 @@
+29/09/17 16.27
+Statistiche del progetto
+
+                 	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	#File	
+Totali:          	     139	   999	                   4090	                 4906	    1	
+Restanti:        	     133	   969	                   3961	                 4754	    1	
+Univoci:         	     139	   999	                   4090	                 4906	    1	
+Univoci restanti:	     133	   969	                   3961	                 4754	    1	
+
+
+Statistiche file singoli:
+
+Nome del file                          	Segmenti totali	Segmenti restanti	Segmenti univoci	Segmenti univoci restanti	Parole totali	Parole restanti	Parole univoche	Parole univoche restanti	Caratteri totali (senza spazi)	Caratteri restanti (senza spazi)	Caratteri univoci (senza spazi)	Caratteri univoci restanti (senza spazi)	Caratteri totali (con spazi)	Caratteri restanti (con spazi)	Caratteri univoci (con spazi)	Caratteri univoci restanti (con spazi)	
+DivinaCommediaCantoPrimo-formattato.odt	            139	              133	             139	                      133	          999	            969	            999	                     969	                          4090	                            3961	                           4090	                                    3961	                        4906	                          4754	                         4906	                                  4754	
